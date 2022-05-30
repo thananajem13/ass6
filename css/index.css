@@ -1,0 +1,18 @@
+h1{color:#17a2b8;}
+input{
+    background-color: transparent !important;
+    color: #fff !important;
+    border-color: #fff;
+}
+.login,.home,.welcome{box-shadow: -5px 2px 54px -9px #000;
+}
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+}
+.sign-up:hover{
+text-decoration: underline !important;
+}
+#home {
+    height: 75vh;
+}
